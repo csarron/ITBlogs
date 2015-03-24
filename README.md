@@ -60,6 +60,7 @@
 - [Dead Code Rising](http://www.deadcoderising.com/)
 - [三石·道](http://www.molotang.com/) —— 三石的生活感悟和技术博客
 - [HollisChuang's Blog](http://www.hollischuang.com/)
+- [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
 
 ##移动与Web
 - [Ryan's zone](http://blog.csdn.net/ryantang03)

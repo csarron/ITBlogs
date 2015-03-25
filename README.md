@@ -46,9 +46,10 @@
 - [结构之法 算法之道](http://blog.csdn.net/v_july_v)。强烈推荐！
 - [Programming Challenges | MathBlog](http://www.mathblog.dk/programming-challenges/)
 
-###ML
-这部分机器学习的需要单独整理。
+###机器学习
+
 - [我爱自然语言处理](http://www.52nlp.cn/)
+- [Marginally Interesting](http://blog.mikiobraun.de/)- by Mikio L. Braun
 
 ##Java技术
 - [ImportNew](http://www.importnew.com/) - 专注Java & Android 技术分享。强烈推荐！

@@ -77,7 +77,7 @@
 - [Styling Android](http://blog.stylingandroid.com/) - A techical guide to to improving the UI and UX Android apps
 - [Android Performance](http://www.grackertalk.com/)
 - [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
-- SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
+- [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
 
 ###iOS
 - [objc中国](http://objccn.io/)

@@ -63,7 +63,9 @@
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
 - [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
+
 ##移动与Web
+
 - [Ryan's zone](http://blog.csdn.net/ryantang03)
 
 ###Android

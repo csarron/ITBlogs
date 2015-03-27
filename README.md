@@ -62,7 +62,7 @@
 - [三石·道](http://www.molotang.com/) —— 三石的生活感悟和技术博客
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
-
+- [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
 ##移动与Web
 - [Ryan's zone](http://blog.csdn.net/ryantang03)
 
@@ -77,7 +77,7 @@
 - [Styling Android](http://blog.stylingandroid.com/) - A techical guide to to improving the UI and UX Android apps
 - [Android Performance](http://www.grackertalk.com/)
 - [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
-- SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
+- [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
 
 ###iOS
 - [objc中国](http://objccn.io/)

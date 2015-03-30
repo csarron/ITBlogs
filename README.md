@@ -63,10 +63,9 @@
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
 - [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
-<<<<<<< HEAD
 - [How To Do In Java](http://howtodoinjava.com/) - Java blog for smart concepts and coding practices
-=======
->>>>>>> f4638bba82feafcd3efe6f3a1c9fa9cb05352450
+
+
 
 ##移动与Web
 

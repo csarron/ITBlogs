@@ -62,8 +62,11 @@
 - [三石·道](http://www.molotang.com/) —— 三石的生活感悟和技术博客
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
+- [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
+- [How To Do In Java](http://howtodoinjava.com/) - Java blog for smart concepts and coding practices
 
 ##移动与Web
+
 - [Ryan's zone](http://blog.csdn.net/ryantang03)
 
 ###Android

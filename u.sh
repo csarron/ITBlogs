@@ -1,6 +1,6 @@
 git pull origin master
 git add . -f
 echo ''
-read -p "Enter Commit Message" msg
-git commit -m "$msg"
+
+git commit -m "添加博客 StackVoid"
 git push -u origin master

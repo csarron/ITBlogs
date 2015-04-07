@@ -63,6 +63,9 @@
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
 - [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
+- [How To Do In Java](http://howtodoinjava.com/) - Java blog for smart concepts and coding practices
+- [StackVoid](http://stackvoid.com/) - 关注Java与Android
+
 
 ##移动与Web
 
@@ -80,7 +83,7 @@
 - [Android Performance](http://www.grackertalk.com/)
 - [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
 - [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
-
+- [郭霖的专栏](http://blog.csdn.net/guolin_blog)
 ###iOS
 - [objc中国](http://objccn.io/)
 - [iOS - 伯乐在线](http://ios.jobbole.com/)

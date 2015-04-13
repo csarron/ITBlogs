@@ -83,6 +83,7 @@
 - [Android Performance](http://www.grackertalk.com/)
 - [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
 - [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
+- [郭霖的专栏](http://blog.csdn.net/guolin_blog)
 
 ###iOS
 - [objc中国](http://objccn.io/)
@@ -95,6 +96,7 @@
 - [UCD大社区](http://ucdchina.com/) - 以用户为中心的设计
 - [UI中国](http://www.ui.cn/)-专业界面设计平台
 - [SDC设计师网址导航](http://www.hao.uisdc.com/) - 学设计从这里开始！
+- [设计达人](http://www.shejidaren.com/) - 爱设计，爱分享。
 
 ##开发与职场
 - [Joel on Software](http://www.joelonsoftware.com/)

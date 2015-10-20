@@ -67,6 +67,7 @@
 - [HollisChuang's Blog](http://www.hollischuang.com/)
 - [Thoughts About Various Backend Development Topics](http://korhner.github.io/)
 - [Javarevisited](http://javarevisited.blogspot.in/)-很好的java技术总结博客，不过需要翻墙
+- [Java67-Java Programming tutorials and Interview Questions](http://java67.blogspot.com/)
 - [How To Do In Java](http://howtodoinjava.com/) - Java blog for smart concepts and coding practices
 - [StackVoid](http://stackvoid.com/) - 关注Java与Android
 

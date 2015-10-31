@@ -33,6 +33,7 @@
 
 
 ##前端
+- [JerryQu 的小站](https://imququ.com/) - 专注 WEB 端开发。
 - [前端观察](http://www.qianduan.net/) - 专注于网站前端设计与前端开发。
 - [WEB前端 - 伯乐在线](http://web.jobbole.com/)
 - [StrayBugs](http://www.crimx.com/) ——读书以养节操。这个博客很多关于前端的知识收集总结，比如HTML5，Javascript等方面的周刊。

@@ -33,6 +33,7 @@
 
 
 ##前端
+- [Yuguo Blog](http://yuguo.us/) - 腾讯前端工程师的博客
 - [JerryQu 的小站](https://imququ.com/) - 专注 WEB 端开发。
 - [前端观察](http://www.qianduan.net/) - 专注于网站前端设计与前端开发。
 - [WEB前端 - 伯乐在线](http://web.jobbole.com/)

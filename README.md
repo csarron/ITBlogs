@@ -131,12 +131,10 @@
 
 - [标点符](http://www.biaodianfu.com/) —— 天下莫柔弱于水，而攻坚强者莫之能胜，以其无以易之。
 
-## 微信公众号
-# WeChatTechAccounts
-技术类高质量公众号
+## 技术类高质量微信公众号
 
 
-## Pull Request 要求
+### Pull Request 要求
 1.公号简介，二维码（必选）。二维码可以通过连接形式，官方链接为：
 `http://open.weixin.qq.com/qr/code/?username=wechatID`
 （比如上面MacTalk的图片可以通过 http://open.weixin.qq.com/qr/code/?username=sagacity-mac 访问到）
@@ -144,7 +142,7 @@
 
 
 
-##综合
+###综合
 
 - [InfoQ](http://www.infoq.com/cn/)。这个网站口号是促进软件开发领域知识与创新的传播，作为软件从业者，应该经常去看看，能学到新知也能拓宽眼界和业内人士交流，另外它的定位面向中高端软件从业人员因此质量很高。如果只推荐一个学习技术前沿的地方，就是它了。
 
@@ -163,9 +161,9 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=QunarTL" width="20%" height="20%" />
 
 
-##技术开发
+###技术开发
 
-###编程
+####编程
 
 - ImportNew。
 
@@ -181,7 +179,7 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=swift-cafe" width="20%" height="20%" />
 
 
-###前端
+####前端
 - 前端早读课。
 
 
@@ -189,7 +187,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=FeZaoDuKe" width="20%" height="20%" />
 
-###移动
+####移动
 - WeMobileDev。
 
 >微信移动客户端开发团队官号，分享微信在Android、iOS、Mac、Winphone、Windows等平台的开发经验、前沿技术，以及一些鲜为人知的小故事。
@@ -230,7 +228,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=smart_android" width="20%" height="20%" />
 
-###架构
+####架构
 - 高可用架构。这个公众号简介很简洁，但是都是业内各路大神的技术分享，由 TimYang（微博研发副总经理） 创建的架构师群分享记录而来，非常值得研读。
 
 <img src="http://open.weixin.qq.com/qr/code/?username=ArchNotes" width="20%" height="20%" />
@@ -239,7 +237,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=timyang_net" width="20%" height="20%" />
 
-###设计
+####设计
 
 - 百度多酷UED。
 
@@ -253,7 +251,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=meituanued" width="20%" height="20%" />
 
-##其他
+###其他
 这些公众号有个特点就是主题往往不局限于某一类技术型话题，有涉及到创业经验、学习思维、个人思考、技术管理等等方面。
 
 - Tiny4Voice。说是鸡汤实际上有些文章不但思维方法有启迪实际操作也有可行性。[文章精选](https://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&mid=400118765&idx=1&sn=0fab9055d54aec0d30272ffc4195a649&scene=1&srcid=12163NFL1IK9jbiuDWHQn9Vz&key=ac89cba618d2d976083d41a3f2c2ebefc2ad4ba10ee9a00e0e95248afa1a81b67018b0c82536e63dbeb874c1b3d86f0d&ascene=0&uin=MTMyNDQ2MjIwMQ%3D%3D)

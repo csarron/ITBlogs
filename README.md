@@ -182,12 +182,24 @@
 ####前端
 - 前端早读课。
 
-
 >关注前端，产品设计。每天5点半推送1篇相关文章到公众号，我们不创造内容，我们只是优秀内容的搬运者。坚持每天阅读，每天进步一点点
 
 <img src="http://open.weixin.qq.com/qr/code/?username=FeZaoDuKe" width="20%" height="20%" />
 
+- 前端之巅。
+
+>关注前端发展，分享一线技术。不断学习，不断进步，登上前端之巅！
+
+<img src="http://open.weixin.qq.com/qr/code/?username=frontshow" width="20%" height="20%" />
+
 ####移动
+
+- 移动开发前线。
+
+>专注于移动开发前沿和一线技术
+
+<img src="http://open.weixin.qq.com/qr/code/?username=bornmobile" width="20%" height="20%" />
+
 - WeMobileDev。
 
 >微信移动客户端开发团队官号，分享微信在Android、iOS、Mac、Winphone、Windows等平台的开发经验、前沿技术，以及一些鲜为人知的小故事。
@@ -196,10 +208,21 @@
 
 - QQ空间终端开发团队。
 
-
 >QQ空间终端开发团队官方账号,分享QQ空间在Android、iOS、H5等平台的开发经验、技术实践以及一些围绕技术研发的话题.
 
 <img src="http://open.weixin.qq.com/qr/code/?username=qzonemobiledev" width="20%" height="20%" />
+
+- QQ音乐技术团队。
+
+>QQ音乐开发团队公众账号,关注技术分享与交流.
+
+<img src="http://open.weixin.qq.com/qr/code/?username=gh_287053a877e6" width="20%" height="20%" />
+
+- 腾讯Bugly。
+
+>腾讯Bugly-Crash监控，能帮助移动互联网开发者更及时地发现掌控异常，更全面地了解定位异常，更高效地修复解决异常.
+
+<img src="http://open.weixin.qq.com/qr/code/?username=weixinBugly" width="20%" height="20%" />
 
 - 天猫技术。
 
@@ -237,6 +260,17 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=timyang_net" width="20%" height="20%" />
 
+- 聊聊架构。在这里煮酒聊架构。
+
+<img src="http://open.weixin.qq.com/qr/code/?username=archtime" width="20%" height="20%" />
+
+- freshmanTechnology。
+
+>一群人的技术天地，每周3定期在线分享，覆盖各大城市，不怕起点，不惧权威！中生代创造未来！
+
+<img src="http://open.weixin.qq.com/qr/code/?username=freshmanTechnology" width="20%" height="20%" />
+
+
 ####设计
 
 - 百度多酷UED。
@@ -264,6 +298,12 @@
 >漫谈程序员工作中的苦恼、生活中的喜乐忧愁、职业上的困惑、技术上的感悟、人生的迷惘……天马行空,不拘一格,真实、有趣、有能量.
 
 <img src="http://open.weixin.qq.com/qr/code/?username=programmer_sight" width="20%" height="20%" />
+
+- 程序人生。
+
+>十年漫漫程序人生，打过各种杂，也做过让我骄傲的软件；管理过十多人的团队，还带领一班兄弟姐妹创过业。关注程序人生，了解程序猿，学做程序猿，让我们的人生不再屌丝化。
+
+<img src="http://open.weixin.qq.com/qr/code/?username=programmer_life" width="20%" height="20%" />
 
 
 - caoz的梦呓。曹政的心得与分享。

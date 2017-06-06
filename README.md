@@ -164,6 +164,27 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=QunarTL" width="20%" height="20%" />
 
+### 人工智能
+
+- PaperWeekly
+
+>每周会分享N篇nlp领域好玩的paper，旨在用最少的话说明白paper的贡献
+
+<img src="http://open.weixin.qq.com/qr/code/?username=paperweekly" width="20%" height="20%" />
+
+- AI研习社
+
+>AI研习社，雷锋网旗下关注AI开发技巧及技术教程订阅号
+
+<img src="http://open.weixin.qq.com/qr/code/?username=okweiwu" width="20%" height="20%" />
+
+- 机器之心
+
+>专业的人工智能媒体和产业服务平台
+
+<img src="http://open.weixin.qq.com/qr/code/?username=almosthuman2014" width="20%" height="20%" />
+
+
 
 ### 技术开发
 

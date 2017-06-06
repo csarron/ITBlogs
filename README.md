@@ -3,7 +3,7 @@
 这里收集技术博客和网站，欢迎大家fork和pull requests
 
 
-##综合
+## 综合
 
 - [伯乐在线博客](http://blog.jobbole.com/) 是一个IT互联网职业社区。为IT互联网行业的企业和个人提供服务。网站目前包括：博客、聚合资讯、小组、资源/工具导航 和编程挑战。
 >伯乐在线-博客( blog.JobBole.com )专注于分享职业相关的博客文章、业界资讯和职业相关的优秀工具和资源。博文类别包括：程序员、设计、营销、互联网、IT技术、自由职业、创业、运营、管理、翻译和人力资源等等
@@ -23,7 +23,7 @@
 >是一个分享技术见闻，知识，趋势的网站，这是我个人建立的网站，如果你喜欢其中的文章呢，欢迎给我们留言，如果不想留言呢，你也可以通过打分来鼓励我们分享和写作。当然，我们最欢迎的是你的加入，欢迎你和我们一起写作。欢迎大家注册并加入我们一起来分享编程和技术方面的见闻和心得。文章可以是原创，翻译、杂谈，灌水，只要是和技术和编程相关就可以。
 
 	皓叔的文章质量一般都很高，而且很多技术干货分享，重要的是还有很多对于方法论层次上的讨论，对于搞IT学CS的同学来说，很有阅读价值。
-	
+
 - [稀土掘金](http://gold.xitu.io)
 > 一个新的技术分享平台，网站设计的很漂亮，而且还是完全前端操作。APP 也做得不错，可以在手机上快速阅读。各个分类的知识内容（前端、后端、iOS、Android、设计）都有涉及。
 
@@ -32,7 +32,8 @@
 - [四火的唠叨](http://www.raychase.net/)。
 
 
-##前端
+## 前端
+
 - [Yuguo Blog](http://yuguo.us/) - 腾讯前端工程师的博客
 - [JerryQu 的小站](https://imququ.com/) - 专注 WEB 端开发。
 - [前端观察](http://www.qianduan.net/) - 专注于网站前端设计与前端开发。
@@ -42,22 +43,24 @@
 - [Tutorialzine](http://tutorialzine.com/) - Web Development Tutorials & Resources
 - [Collections ♥ Scotch](https://scotch.io/collections)
 
-##后端
+## 后端
+
 - [风雪之隅](http://www.laruence.com/)-Laruence的博客。博主为微博平台架构师，PHP大牛，网站有很多关于PHP的技术分享。
 - [后端技术 by Tim Yang](http://timyang.net/)。博主也是大牛一枚，关注架构及互联网技术，服务于微博技术团队，新浪（集团）技术委员会及微博技术委员会委员。
 - [cenalulu's Tech Blog](http://cenalulu.github.io/)
 
 
-##算法
+## 算法
 - [结构之法 算法之道](http://blog.csdn.net/v_july_v)。强烈推荐！
 - [Programming Challenges | MathBlog](http://www.mathblog.dk/programming-challenges/)
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
-###机器学习
+
+### 机器学习
 
 - [我爱自然语言处理](http://www.52nlp.cn/)
 - [Marginally Interesting](http://blog.mikiobraun.de/)- by Mikio L. Braun
 
-##Java技术
+## Java技术
 - [ImportNew](http://www.importnew.com/) - 专注Java & Android 技术分享。强烈推荐！
 - [ProgramCreek.com](http://www.programcreek.com/)
 - [Java Tutorial](http://javapapers.com/) - Tutorial on Java, Android, Design Patterns, Spring, Web ServicesJava Tutorial
@@ -74,11 +77,11 @@
 - [StackVoid](http://stackvoid.com/) - 关注Java与Android
 
 
-##移动与Web
+## 移动与Web
 
 - [Ryan's zone](http://blog.csdn.net/ryantang03)
 
-###Android
+### Android
 - [AndroidDevTools](http://www.androiddevtools.cn/)
 - [代码家](http://blog.daimajia.com/)
 - [stormzhang博客精华](http://www.stormzhang.com/)
@@ -93,29 +96,29 @@
 - [郭霖的专栏](http://blog.csdn.net/guolin_blog)
 - [小刚](http://keeganlee.me/)
 
-###iOS
+### iOS
 - [objc中国](http://objccn.io/)
 - [iOS - 伯乐在线](http://ios.jobbole.com/)
 - [破船之家](http://beyondvincent.com/)
 - [Glow 技术团队博客](http://tech.glowing.com/cn/)
 - [coderyi](http://www.coderyi.com/)
 
-##设计
+## 设计
 - [UCD大社区](http://ucdchina.com/) - 以用户为中心的设计
 - [UI中国](http://www.ui.cn/)-专业界面设计平台
 - [SDC设计师网址导航](http://www.hao.uisdc.com/) - 学设计从这里开始！
-- [设计达人](http://www.shejidaren.com/) - 爱设计，爱分享。 
+- [设计达人](http://www.shejidaren.com/) - 爱设计，爱分享。
 
-##开发与职场
+## 开发与职场
 - [Joel on Software](http://www.joelonsoftware.com/)
 
-- [乱象，印迹](http://www.luanxiang.org/blog/) —— One more struggle, and I am free. 
+- [乱象，印迹](http://www.luanxiang.org/blog/) —— One more struggle, and I am free.
 >作者历任抓虾网主力程序员，盛大创新院高级研究员，广州某外贸公司技术总监，现供职于Anker，研究IT系统与电商运营的深度整合。
 - [Nikant Vohra](http://www.nikantvohra.com/)
 - [The Effective Engineer](http://www.theeffectiveengineer.com/blog)。不仅仅关于软件开发，还有很多职场建议。
 - [Blog - CodeUnion.io](http://blog.codeunion.io/)
 
-##其他
+## 其他
 - [刘未鹏 | Mind Hacks | 思维改变生活](http://mindhacks.cn/)。强烈推荐！
 - [Reid Hoffman](http://reidhoffman.org/)。LinkedIn创始人之一的博客。
 - [美团技术团队](http://tech.meituan.com/)
@@ -143,7 +146,7 @@
 
 
 
-###综合
+### 综合
 
 - [InfoQ](http://www.infoq.com/cn/)。这个网站口号是促进软件开发领域知识与创新的传播，作为软件从业者，应该经常去看看，能学到新知也能拓宽眼界和业内人士交流，另外它的定位面向中高端软件从业人员因此质量很高。如果只推荐一个学习技术前沿的地方，就是它了。
 
@@ -162,9 +165,9 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=QunarTL" width="20%" height="20%" />
 
 
-###技术开发
+### 技术开发
 
-####编程
+#### 编程
 
 - ImportNew。
 
@@ -180,7 +183,7 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=swift-cafe" width="20%" height="20%" />
 
 
-####前端
+#### 前端
 - 前端早读课。
 
 >关注前端，产品设计。每天5点半推送1篇相关文章到公众号，我们不创造内容，我们只是优秀内容的搬运者。坚持每天阅读，每天进步一点点
@@ -193,7 +196,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=frontshow" width="20%" height="20%" />
 
-####移动
+#### 移动
 
 - 移动开发前线。
 
@@ -252,7 +255,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=smart_android" width="20%" height="20%" />
 
-####架构
+#### 架构
 - 高可用架构。这个公众号简介很简洁，但是都是业内各路大神的技术分享，由 TimYang（微博研发副总经理） 创建的架构师群分享记录而来，非常值得研读。
 
 <img src="http://open.weixin.qq.com/qr/code/?username=ArchNotes" width="20%" height="20%" />
@@ -272,7 +275,7 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=freshmanTechnology" width="20%" height="20%" />
 
 
-####设计
+#### 设计
 
 - 百度多酷UED。
 
@@ -286,7 +289,7 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=meituanued" width="20%" height="20%" />
 
-###其他
+### 其他
 这些公众号有个特点就是主题往往不局限于某一类技术型话题，有涉及到创业经验、学习思维、个人思考、技术管理等等方面。
 
 - Tiny4Voice。说是鸡汤实际上有些文章不但思维方法有启迪实际操作也有可行性。[文章精选](https://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&mid=400118765&idx=1&sn=0fab9055d54aec0d30272ffc4195a649&scene=1&srcid=12163NFL1IK9jbiuDWHQn9Vz&key=ac89cba618d2d976083d41a3f2c2ebefc2ad4ba10ee9a00e0e95248afa1a81b67018b0c82536e63dbeb874c1b3d86f0d&ascene=0&uin=MTMyNDQ2MjIwMQ%3D%3D)
@@ -357,7 +360,7 @@
 
 ---
 
-##后记
+## 后记
 最好收集这些博客网站的方法就是可以参看他们的友链，然后自己去检查质量，一般也不会太差，另外就是微博、GitHub 多关注些技术大牛以及活跃社区小组等等，他们分享的文章来源也是重要的积累。
 对于如何更有效率地阅读，请参考[这里](http://www.caoqq.net/tech-news.html#后记)。对于有更好的网站博客等，欢迎留言推荐。
 

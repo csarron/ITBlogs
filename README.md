@@ -184,6 +184,11 @@
 
 <img src="http://open.weixin.qq.com/qr/code/?username=almosthuman2014" width="20%" height="20%" />
 
+- 微软研究院AI头条
+
+>专注科研18年，盛产黑科技
+
+<img src="http://open.weixin.qq.com/qr/code/?username=MSRAsia" width="20%" height="20%" />
 
 
 ### 技术开发

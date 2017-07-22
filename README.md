@@ -59,6 +59,10 @@
 
 - [我爱自然语言处理](http://www.52nlp.cn/)
 - [Marginally Interesting](http://blog.mikiobraun.de/)- by Mikio L. Braun
+- [Home - colah's blog](http://colah.github.io/)
+- [metaflow-ai](https://blog.metaflow.fr/)
+- [Andrej Karpathy blog](http://karpathy.github.io/)
+- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs – WildML](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 ## Java技术
 - [ImportNew](http://www.importnew.com/) - 专注Java & Android 技术分享。强烈推荐！

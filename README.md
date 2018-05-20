@@ -407,7 +407,7 @@
 
 >公众号开通于2012年末，内容起于 Mac 而不止 Mac，讲述技术与人文的故事，释放编程与写作的力量。行文采用了一种技术和人生感悟相结合的风格，文字简单、内容有趣。相关图书《MacTalk·人生元编程》《MacTalk·跨越边界》。
 
-<img src="http://open.weixin.qq.com/qr/code?username=sagacity-mac" width="20%" height="20%" />
+<img src="http://open.weixin.qq.com/qr/code?username=MacTalkPro" width="20%" height="20%" />
 
 
 
